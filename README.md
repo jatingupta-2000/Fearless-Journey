@@ -1,1 +1,2 @@
-# Fearless-Journey
+<h2> About the project </h2>
+<p>This project is based on the real-world problem as a major (around 50-55%) percentage of road accidents is happen due to driver drowsiness. Taking this into consideration I think of a solution to develop an application using artificial intelligence that takes the real-time input and also does the real-time analysis. This software keeps an eye on the driver as a human and alerts them if they show any sign of sleepiness. I differentiate the alert into three main categories i.e. safe, need rest, and danger. This helps the driver as well as a passenger to have a safe drive.</p>
