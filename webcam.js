@@ -18,6 +18,8 @@
  */
 
 
+
+
 class Webcam {
   /**
    * @param {HTMLVideoElement} webcamElement A HTMLVideoElement representing the
