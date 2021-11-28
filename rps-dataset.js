@@ -3,6 +3,7 @@ class RPSDataset {
     this.labels = []
   }
 
+  
   addExample(example, label) {
     if (this.xs == null) {
       this.xs = tf.keep(example);
