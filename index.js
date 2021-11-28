@@ -155,4 +155,7 @@ async function init(){
 	tf.tidy(() => mobilenet.predict(webcam.capture()));
 }
 
+
+
+
 init();
