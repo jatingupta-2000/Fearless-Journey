@@ -4,3 +4,4 @@
 <h2> What problems solves ? </h2>
 <p>With the help of this project, my main motive is the somehow decrease the percentage of road accidents. As the article published in the TOI also states that this issue is the main cause for the same. This application keeps an eye on the driver in the same fashion as human do and ring the alarm as found any sign of sleepiness of driver. To get a more accurate alert we differentiate the alert into a different categories. 
 As the driver shows any sign of sleepiness it will automatically start the alarm and also state the mental condition of the driver i.e. the driver is properly fresh, or he needs rest, or probably sleep. As a result, we also know the driver's mood and also alert the driver while driving the car in case of any sign of sleepiness.</p>
+
